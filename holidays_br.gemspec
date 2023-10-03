@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "lib/holidays/br/version"
+require_relative "lib/holidays_br/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "holidays-br"
-  spec.version = Holidays::Br::VERSION
+  spec.name = "holidays_br"
+  spec.version = HolidaysBr::VERSION
   spec.authors = ["IgorFZ"]
   spec.email = ["igorf.zamp@gmail.com"]
 
