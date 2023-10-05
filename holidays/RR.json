@@ -1,0 +1,1128 @@
+{
+  "ALTO ALEGRE": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "AMAJARI": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "BOA VISTA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "São Sebastião"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "São Pedro"
+    },
+    "09/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "N. Sra. da Conceição"
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "BONFIM": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "CANTA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "CARACARAI": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "CAROEBE": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "IRACEMA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "MUCAJAI": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "NORMANDIA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "PACARAIMA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "RORAINOPOLIS": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "SAO JOAO DA BALIZA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "SAO LUIZ": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  },
+  "UIRAMUTA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Tiradentes"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "05/10/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Roraima"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia da Consciência Negra"
+    },
+    "07/12/2023": {
+      "type": "Facultativo",
+      "name": "Referente ao feriado de 8 de dezembro - Nossa Senhora da Conceição "
+    },
+    "24/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia - Véspera de Natal"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Facultativo",
+      "name": "Após o meio-dia, Véspera de Ano Novo"
+    }
+  }
+}

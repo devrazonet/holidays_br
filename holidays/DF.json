@@ -1,0 +1,60 @@
+{
+  "BRASILIA": {
+    "01/01/2023": {
+      "type": "Feriado Nacional",
+      "name": "Ano Novo"
+    },
+    "20/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "21/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "07/04/2023": {
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
+    },
+    "21/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário de Brasília"
+    },
+    "01/05/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia do Trabalho"
+    },
+    "08/06/2023": {
+      "type": "Facultativo",
+      "name": "Corpus Christi"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
+    "12/10/2023": {
+      "type": "Feriado Nacional",
+      "name": "Nossa Senhora Aparecida"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "30/11/2023": {
+      "type": "Feriado Estadual",
+      "name": "Dia do Evangélico"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
+    }
+  }
+}
