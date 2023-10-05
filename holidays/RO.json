@@ -4,6 +4,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -39,6 +43,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -58,6 +70,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -86,6 +102,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -93,6 +113,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -112,6 +140,14 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
+    "13/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -136,9 +172,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "24/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -147,6 +191,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -166,6 +218,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -201,6 +257,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -220,6 +284,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -248,13 +316,33 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "04/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Padroeiro"
+    },
+    "11/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -274,6 +362,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -302,6 +394,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "29/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -309,6 +409,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -321,12 +429,20 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "27/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "CABIXI": {
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -356,6 +472,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "06/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "06/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -363,6 +491,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -382,6 +518,14 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
+    "13/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -410,6 +554,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "16/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -417,6 +569,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -436,6 +596,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -464,6 +628,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -472,6 +640,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -479,6 +655,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "26/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -490,6 +670,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -518,6 +702,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -525,6 +713,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -544,6 +740,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -572,6 +772,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -579,6 +783,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -598,6 +810,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -626,6 +842,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -633,6 +853,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -652,6 +880,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -680,6 +912,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -687,6 +927,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -706,6 +954,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -741,6 +993,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -760,6 +1020,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -788,6 +1052,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "16/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -795,6 +1067,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -814,6 +1094,14 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
+    "13/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -842,6 +1130,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "27/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Padroeira"
+    },
     "09/08/2023": {
       "type": "Feriado Municipal",
       "name": "Feriado Municipal"
@@ -853,6 +1149,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -872,6 +1176,18 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "01/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -900,6 +1216,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "16/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -907,6 +1231,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -926,6 +1258,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -954,6 +1290,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "22/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -961,6 +1309,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -980,6 +1336,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1008,6 +1368,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "16/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1015,6 +1383,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1034,6 +1410,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1062,6 +1442,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1069,6 +1453,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1088,6 +1480,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1104,6 +1500,10 @@
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
     },
+    "10/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "21/04/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
@@ -1116,6 +1516,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "06/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1124,6 +1532,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1131,6 +1547,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1142,6 +1562,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1177,6 +1601,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1196,6 +1628,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1224,6 +1660,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1232,9 +1676,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "07/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -1249,6 +1705,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -1290,6 +1750,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1312,6 +1780,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1336,9 +1808,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "11/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -1347,6 +1827,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1366,6 +1854,14 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
+    "13/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1394,6 +1890,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1401,6 +1901,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1420,6 +1928,14 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
+    "13/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1448,6 +1964,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1455,6 +1979,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1474,6 +2006,14 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
+    "14/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1485,6 +2025,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
     },
     "07/04/2023": {
       "type": "Feriado Nacional",
@@ -1502,6 +2046,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1509,6 +2057,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1528,6 +2084,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1556,6 +2116,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "19/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1563,6 +2131,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1582,6 +2158,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1610,6 +2190,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "21/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1617,6 +2205,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1636,6 +2232,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1671,6 +2271,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1690,6 +2298,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1725,6 +2337,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1744,6 +2364,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1779,6 +2403,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1798,6 +2430,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1833,6 +2469,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1852,6 +2496,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1887,6 +2535,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1906,6 +2562,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1941,6 +2601,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1960,9 +2628,9 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
-    "24/01/2023": {
-      "type": "Feriado Municipal",
-      "name": "São Francisco de Sales"
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -1977,8 +2645,8 @@
       "name": "Carnaval"
     },
     "07/04/2023": {
-      "type": "Feriado Municipal",
-      "name": "Paixão de Cristo"
+      "type": "Feriado Nacional",
+      "name": "Sexta-Feira Santa"
     },
     "21/04/2023": {
       "type": "Feriado Nacional",
@@ -1996,13 +2664,17 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
-    "02/10/2023": {
-      "type": "Feriado Municipal",
-      "name": "Aniversário"
-    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2022,6 +2694,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2057,6 +2733,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2076,6 +2760,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2111,6 +2799,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2130,6 +2826,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2158,6 +2858,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2165,6 +2869,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2183,6 +2895,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -2212,6 +2928,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2219,6 +2943,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2238,6 +2970,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2262,9 +2998,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "11/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -2274,6 +3018,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2281,6 +3033,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "13/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -2292,6 +3048,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2327,6 +3087,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2346,6 +3114,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2374,6 +3146,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2381,6 +3157,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2400,6 +3184,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2428,13 +3216,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "29/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2454,6 +3258,14 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
+    "13/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2482,6 +3294,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2489,6 +3305,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2508,6 +3332,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2543,6 +3371,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2562,6 +3398,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2590,6 +3430,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2597,6 +3441,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2616,6 +3468,14 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
+    "13/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2644,6 +3504,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2651,6 +3519,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2670,6 +3546,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2705,6 +3585,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2724,6 +3612,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2752,6 +3644,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2759,6 +3655,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2777,6 +3681,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "04/01/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Rondônia"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -2818,6 +3726,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2825,6 +3741,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "23/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",

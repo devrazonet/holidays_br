@@ -40,6 +40,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"

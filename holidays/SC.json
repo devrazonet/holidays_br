@@ -24,6 +24,10 @@
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
     },
+    "26/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "01/05/2023": {
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
@@ -40,6 +44,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -47,6 +59,14 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "21/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -57,6 +77,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -90,6 +114,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "27/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -97,6 +125,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -152,6 +188,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -194,6 +238,14 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "26/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "06/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -206,6 +258,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -217,6 +277,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "26/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "AGUA DOCE": {
@@ -252,6 +316,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -259,6 +327,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -306,6 +382,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -314,6 +394,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -321,6 +409,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "14/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -367,6 +459,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -422,6 +522,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -430,9 +538,17 @@
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
     },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "29/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "ALFREDO WAGNER": {
@@ -468,6 +584,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "06/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -475,6 +595,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -530,6 +662,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -560,6 +700,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "20/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -576,6 +720,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -584,6 +732,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -591,6 +747,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "13/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -601,6 +761,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "11/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -630,6 +794,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -638,6 +806,18 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -645,6 +825,14 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "07/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -692,6 +880,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -699,6 +895,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "04/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -709,6 +909,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -746,6 +950,18 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -754,9 +970,17 @@
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
     },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "29/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "ANTONIO CARLOS": {
@@ -800,9 +1024,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "06/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -842,6 +1078,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "01/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -853,6 +1093,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -908,6 +1156,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -938,6 +1194,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "05/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -954,6 +1214,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "06/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -961,6 +1225,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -992,6 +1264,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "03/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -1004,6 +1280,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "04/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -1015,6 +1295,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1070,6 +1358,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1077,6 +1373,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "19/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1116,6 +1416,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "12/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1124,6 +1428,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1131,6 +1443,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "15/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1177,6 +1493,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1232,6 +1556,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1262,6 +1594,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -1278,6 +1614,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1285,6 +1625,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1297,6 +1645,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "26/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "AURORA": {
@@ -1328,6 +1680,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "06/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -1340,6 +1696,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1347,6 +1711,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1393,6 +1761,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1447,6 +1823,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1506,6 +1890,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1563,6 +1955,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1626,6 +2026,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1684,6 +2092,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1737,6 +2153,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1792,6 +2216,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1846,6 +2278,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1853,6 +2293,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "07/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1899,6 +2343,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1954,6 +2406,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1996,6 +2456,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "02/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -2007,6 +2471,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2066,6 +2538,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2124,6 +2604,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Municipal",
       "name": "Finados"
@@ -2178,6 +2666,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2196,6 +2692,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2207,6 +2707,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "05/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/04/2023": {
       "type": "Feriado Nacional",
@@ -2224,6 +2728,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "27/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2231,6 +2739,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2286,6 +2802,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2339,6 +2863,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2394,6 +2926,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2412,6 +2952,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "02/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2423,6 +2967,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "15/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/04/2023": {
       "type": "Feriado Nacional",
@@ -2447,6 +2995,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "01/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2510,6 +3070,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2564,6 +3132,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2614,9 +3190,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "26/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2629,6 +3217,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "26/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "BRUNOPOLIS": {
@@ -2671,6 +3263,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2730,6 +3330,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2760,6 +3368,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "25/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -2783,6 +3395,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2826,9 +3446,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "06/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "08/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -2838,6 +3466,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2845,6 +3481,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -2891,6 +3531,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2954,6 +3602,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -3007,6 +3663,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3062,13 +3726,29 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
     },
+    "08/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "03/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -3108,6 +3788,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "27/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3116,6 +3800,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -3123,6 +3815,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -3146,6 +3842,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "30/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -3162,6 +3862,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3169,6 +3873,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3224,6 +3936,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -3266,6 +3986,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "03/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -3274,9 +3998,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "12/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3331,6 +4067,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3394,6 +4138,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -3424,6 +4176,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "30/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -3440,6 +4196,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3447,6 +4207,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3478,6 +4246,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "16/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -3501,6 +4273,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3552,9 +4332,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "30/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3563,6 +4355,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "14/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -3573,6 +4369,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "25/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -3610,6 +4410,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -3617,6 +4425,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -3660,9 +4472,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "26/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3717,6 +4541,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3776,6 +4608,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Municipal",
       "name": "Finados"
@@ -3826,9 +4666,25 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "08/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "26/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3876,6 +4732,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3883,6 +4743,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3938,6 +4806,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -3991,6 +4867,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4046,6 +4930,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4088,9 +4980,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "10/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "12/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -4099,6 +4999,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4153,6 +5061,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4212,6 +5128,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Municipal",
       "name": "Finados"
@@ -4262,6 +5186,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "20/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -4270,6 +5198,18 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4277,6 +5217,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -4323,6 +5267,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4382,6 +5334,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4432,6 +5392,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -4440,6 +5404,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4447,6 +5419,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "16/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -4469,6 +5445,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "14/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/04/2023": {
       "type": "Feriado Nacional",
@@ -4493,6 +5473,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4556,6 +5544,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4618,6 +5614,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4671,6 +5675,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4726,6 +5738,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4743,6 +5763,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -4772,6 +5796,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "18/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -4779,6 +5807,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4826,6 +5862,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -4833,6 +5873,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4887,6 +5935,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4946,6 +6002,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Municipal",
       "name": "Finados"
@@ -5000,6 +6064,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5038,6 +6110,10 @@
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
     },
+    "26/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "01/05/2023": {
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
@@ -5054,6 +6130,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5061,6 +6145,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "04/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -5108,6 +6196,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5115,6 +6211,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -5166,6 +6266,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5197,8 +6305,8 @@
       "name": "Carnaval"
     },
     "07/04/2023": {
-      "type": "Feriado Nacional",
-      "name": "Sexta-Feira Santa"
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "21/04/2023": {
       "type": "Feriado Nacional",
@@ -5216,9 +6324,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "29/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5278,6 +6398,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5335,6 +6463,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5398,6 +6534,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5452,9 +6596,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "06/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -5498,6 +6654,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "20/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -5505,6 +6669,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5560,6 +6732,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5571,6 +6751,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "29/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "GUABIRUBA": {
@@ -5606,6 +6790,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "10/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário da Cidade"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -5613,6 +6801,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5656,9 +6852,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "26/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -5667,6 +6871,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5714,6 +6926,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "28/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -5721,6 +6937,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5768,6 +6992,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -5775,6 +7003,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5829,6 +7065,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5888,6 +7132,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5941,6 +7193,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5996,6 +7256,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6003,6 +7271,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -6050,6 +7322,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6081,8 +7361,8 @@
       "name": "Carnaval"
     },
     "07/04/2023": {
-      "type": "Feriado Nacional",
-      "name": "Sexta-Feira Santa"
+      "type": "Feriado Municipal",
+      "name": "Paixão de Cristo"
     },
     "21/04/2023": {
       "type": "Feriado Nacional",
@@ -6096,6 +7376,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "07/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "São Donato"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6103,6 +7387,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6115,6 +7407,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "26/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Emancipação de Içara"
     }
   },
   "ILHOTA": {
@@ -6150,6 +7446,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "21/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6157,6 +7457,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6204,6 +7512,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "27/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6211,6 +7527,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6266,6 +7590,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6273,6 +7605,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -6312,13 +7648,33 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "10/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6378,6 +7734,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6436,6 +7800,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6482,6 +7854,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6489,6 +7869,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6532,9 +7924,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "01/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -6543,6 +7943,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6598,6 +8006,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6652,6 +8068,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6690,6 +8114,10 @@
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
     },
+    "26/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "01/05/2023": {
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
@@ -6698,6 +8126,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6705,6 +8137,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6756,9 +8200,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "11/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6814,6 +8270,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6860,6 +8324,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "22/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "28/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "06/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6867,6 +8343,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6914,6 +8398,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6922,6 +8410,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6929,6 +8425,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "13/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -6976,6 +8476,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6983,6 +8491,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "27/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -7034,6 +8546,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Municipal",
       "name": "Finados"
@@ -7051,6 +8571,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "02/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -7080,6 +8604,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -7087,6 +8615,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7106,6 +8642,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "14/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -7134,6 +8674,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -7141,6 +8685,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7188,6 +8740,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "27/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -7196,6 +8752,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -7203,6 +8767,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -7213,6 +8781,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "14/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Emancipação Política"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -7250,6 +8822,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -7261,6 +8841,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "26/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "JABORA": {
@@ -7300,9 +8884,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "11/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7350,6 +8946,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "23/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -7357,6 +8957,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7408,9 +9016,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "15/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7419,6 +9039,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "20/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -7469,6 +9093,10 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
     },
     "28/10/2023": {
       "type": "Feriado Municipal",
@@ -7528,6 +9156,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -7574,6 +9210,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia do Município"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -7581,6 +9221,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7612,6 +9260,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "09/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário da fundação da cidade"
+    },
     "07/04/2023": {
       "type": "Feriado Municipal",
       "name": "Sexta-feira Santa"
@@ -7636,6 +9288,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -7653,6 +9313,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -7690,6 +9354,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -7701,6 +9373,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "26/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "JUPIA": {
@@ -7743,6 +9419,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7802,9 +9486,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "11/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário Da Cidade"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -7860,6 +9556,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Municipal",
       "name": "Finados"
@@ -7877,6 +9581,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "02/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Nossa Sra. dos Navegantes"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -7906,6 +9614,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Santo Antônio"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -7913,6 +9625,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7968,6 +9688,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -8014,6 +9742,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "12/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -8021,6 +9753,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8039,6 +9779,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "São Sebastião"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -8079,6 +9823,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8130,6 +9882,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -8138,6 +9894,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -8145,6 +9909,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "19/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -8192,6 +9960,18 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -8199,6 +9979,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "12/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -8245,6 +10029,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Municipal",
@@ -8296,6 +10088,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -8303,6 +10099,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8315,6 +10119,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "LUIZ ALVES": {
@@ -8357,6 +10165,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8416,6 +10232,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -8469,6 +10293,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8532,6 +10364,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -8550,6 +10390,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "11/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -8578,6 +10422,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "06/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -8585,6 +10437,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8594,9 +10454,17 @@
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
     },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "28/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "MAJOR VIEIRA": {
@@ -8604,6 +10472,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "23/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -8628,6 +10500,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "19/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -8640,6 +10516,18 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "01/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -8647,6 +10535,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -8682,9 +10574,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "12/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -8694,6 +10594,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -8701,6 +10609,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -8740,6 +10652,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "27/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -8747,6 +10663,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8786,6 +10714,10 @@
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
     },
+    "26/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "01/05/2023": {
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
@@ -8794,6 +10726,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "11/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -8801,6 +10737,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8856,9 +10800,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "11/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -8894,6 +10850,10 @@
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
     },
+    "23/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "01/05/2023": {
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
@@ -8902,6 +10862,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "06/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -8909,6 +10877,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "01/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8956,6 +10936,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -8964,6 +10948,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -8971,6 +10963,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "20/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -9017,6 +11013,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9072,6 +11076,18 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -9080,15 +11096,27 @@
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
     },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "30/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "MONDAI": {
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "02/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -9125,6 +11153,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9180,6 +11220,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -9222,9 +11270,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "15/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -9233,6 +11289,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9245,6 +11309,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "26/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "MORRO DA FUMACA": {
@@ -9280,6 +11348,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "16/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -9287,6 +11359,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9341,6 +11421,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9404,6 +11492,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -9446,9 +11542,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "13/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -9458,6 +11562,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -9466,9 +11578,17 @@
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
     },
+    "25/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "28/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "NOVA ITABERABA": {
@@ -9511,6 +11631,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9558,6 +11686,14 @@
       "type": "Feriado Municipal",
       "name": "Corpus Christi"
     },
+    "09/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Santa Paulina "
+    },
+    "08/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário do Município"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -9565,6 +11701,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9620,6 +11764,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -9674,6 +11826,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -9720,6 +11880,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "30/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário da Cidade"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -9727,6 +11891,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9770,6 +11942,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "10/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -9782,6 +11958,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -9789,6 +11973,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "25/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Padroeira"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -9799,6 +11987,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "02/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -9835,6 +12027,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9890,6 +12090,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -9944,6 +12152,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -9997,6 +12213,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10056,6 +12280,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -10102,6 +12334,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10109,6 +12345,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10118,9 +12362,17 @@
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
     },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "30/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "PALMEIRA": {
@@ -10172,6 +12424,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -10202,6 +12462,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "02/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -10218,6 +12482,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10225,6 +12493,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10244,6 +12524,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -10260,6 +12544,10 @@
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
     },
+    "11/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "21/04/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
@@ -10272,6 +12560,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10279,6 +12571,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10334,6 +12634,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -10351,6 +12659,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "02/02/2023": {
+      "type": "Feriado Municipal",
+      "name": " Dia de Nossa Senhora dos Navegantes"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -10380,13 +12692,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": " Dia de São Pedro, padroeiro do município."
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "26/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Emancipação do município"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10426,6 +12754,10 @@
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
     },
+    "23/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "01/05/2023": {
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
@@ -10441,6 +12773,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10496,6 +12836,18 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "01/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -10507,6 +12859,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "30/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "PEDRAS GRANDES": {
@@ -10546,9 +12902,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "29/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10561,6 +12929,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "29/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "PENHA": {
@@ -10600,6 +12972,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "19/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário da Cidade"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10607,6 +12983,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10670,6 +13054,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -10732,9 +13124,17 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
     "25/10/2023": {
       "type": "Feriado Municipal",
       "name": "Aniversário da Cidade"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10782,6 +13182,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "06/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "16/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10789,6 +13197,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10844,6 +13264,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -10855,6 +13283,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "30/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "PINHEIRO PRETO": {
@@ -10890,6 +13322,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10897,6 +13333,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10956,6 +13400,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -11009,6 +13461,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -11064,6 +13524,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -11110,13 +13578,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "20/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -11172,6 +13656,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -11218,6 +13710,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
+    "27/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -11225,6 +13725,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -11280,6 +13788,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -11326,6 +13842,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "05/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -11333,6 +13853,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -11380,6 +13908,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "23/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -11387,6 +13919,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -11399,12 +13939,20 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "26/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "PRAIA GRANDE": {
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -11441,6 +13989,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -11460,6 +14016,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "04/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -11495,6 +14055,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -11554,6 +14126,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -11604,6 +14184,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -11612,6 +14200,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -11619,6 +14215,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "12/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -11665,6 +14265,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -11720,6 +14328,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -11766,6 +14382,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "22/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -11774,9 +14394,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "08/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -11820,6 +14452,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
+    "27/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -11827,6 +14467,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -11882,6 +14530,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -11893,6 +14549,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "29/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário da Cidade"
     }
   },
   "RIO DO OESTE": {
@@ -11928,6 +14588,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "23/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -11935,6 +14599,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -11970,6 +14642,10 @@
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
     },
+    "15/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "21/04/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
@@ -11989,6 +14665,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -12044,6 +14728,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -12051,6 +14743,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -12082,6 +14778,10 @@
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
     },
+    "25/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "01/05/2023": {
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
@@ -12089,6 +14789,10 @@
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "21/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -12098,6 +14802,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -12105,6 +14817,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -12136,6 +14852,10 @@
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
     },
+    "24/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "01/05/2023": {
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
@@ -12151,6 +14871,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -12210,6 +14938,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -12268,6 +15004,18 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -12275,6 +15023,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "12/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -12326,6 +15078,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -12372,13 +15132,33 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "23/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -12387,6 +15167,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -12430,9 +15214,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "19/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Padroeira"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -12445,6 +15241,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "29/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "SALTINHO": {
@@ -12487,6 +15287,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -12542,6 +15350,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -12596,6 +15412,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -12642,6 +15466,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "21/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -12650,6 +15478,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -12657,6 +15493,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "22/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -12704,6 +15544,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -12746,9 +15594,21 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "10/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "30/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -12757,6 +15617,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -12812,6 +15680,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -12865,6 +15741,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -12920,6 +15804,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -12974,6 +15866,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -12991,6 +15891,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "15/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -13020,6 +15924,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "10/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -13027,6 +15935,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -13078,9 +15994,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "23/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -13136,6 +16064,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -13178,6 +16114,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "05/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -13190,6 +16130,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -13198,9 +16146,17 @@
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
     },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "29/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "SAO CARLOS": {
@@ -13247,6 +16203,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -13306,6 +16270,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -13337,8 +16309,8 @@
       "name": "Carnaval"
     },
     "07/04/2023": {
-      "type": "Feriado Nacional",
-      "name": "Sexta-Feira Santa"
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "21/04/2023": {
       "type": "Feriado Nacional",
@@ -13352,6 +16324,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -13359,6 +16335,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -13394,6 +16378,10 @@
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
     },
+    "15/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "21/04/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
@@ -13410,9 +16398,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "08/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -13476,6 +16476,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -13530,6 +16538,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -13576,6 +16592,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -13584,6 +16604,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -13591,6 +16619,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "12/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -13638,6 +16670,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -13680,6 +16720,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "07/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -13691,6 +16735,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -13722,6 +16774,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -13745,6 +16801,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -13808,6 +16872,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Municipal",
       "name": "Dia de Finados"
@@ -13854,6 +16926,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -13861,6 +16937,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -13908,6 +16992,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -13915,6 +17003,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -13946,6 +17042,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "26/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -13962,6 +17062,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "12/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -13969,6 +17073,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -14024,13 +17136,29 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
     },
+    "14/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -14077,6 +17205,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -14132,6 +17268,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -14185,6 +17329,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -14240,6 +17392,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -14251,6 +17411,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "30/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "SCHROEDER": {
@@ -14294,6 +17458,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -14324,6 +17496,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "03/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -14340,6 +17516,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -14347,6 +17527,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -14402,6 +17590,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -14456,6 +17652,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -14464,15 +17668,27 @@
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
     },
+    "04/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "26/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "SOMBRIO": {
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -14502,6 +17718,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -14509,6 +17729,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -14563,6 +17791,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -14622,6 +17858,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -14639,6 +17883,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "19/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -14668,6 +17916,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -14675,6 +17927,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -14730,6 +17990,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -14747,6 +18015,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -14776,6 +18048,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -14783,6 +18059,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -14830,13 +18114,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "16/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "23/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -14872,6 +18172,10 @@
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
     },
+    "09/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "21/04/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
@@ -14891,6 +18195,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -14922,6 +18234,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -14929,6 +18245,10 @@
     "21/04/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
+    },
+    "26/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "01/05/2023": {
       "type": "Feriado Nacional",
@@ -14945,6 +18265,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -14992,6 +18320,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -14999,6 +18331,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -15054,6 +18394,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -15084,6 +18432,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -15096,6 +18448,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "13/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -15104,9 +18460,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "28/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -15161,6 +18529,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -15219,6 +18595,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -15282,6 +18666,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Municipal",
       "name": "Finados"
@@ -15320,6 +18712,10 @@
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
     },
+    "26/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "01/05/2023": {
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
@@ -15328,6 +18724,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -15335,6 +18735,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -15366,6 +18774,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "20/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -15382,6 +18794,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "12/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -15389,6 +18805,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -15456,6 +18880,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -15502,6 +18934,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -15509,6 +18945,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -15552,9 +18996,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "01/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -15563,6 +19015,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -15606,6 +19066,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "26/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -15618,6 +19082,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -15625,6 +19097,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -15664,6 +19140,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -15671,6 +19151,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -15725,6 +19213,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -15784,6 +19280,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -15805,6 +19309,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "17/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -15841,6 +19349,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -15900,6 +19416,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -15942,6 +19466,10 @@
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
     },
+    "26/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "01/05/2023": {
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
@@ -15958,6 +19486,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -15969,6 +19505,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "26/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "WITMARSUM": {
@@ -16004,6 +19544,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "25/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -16011,6 +19559,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -16023,6 +19579,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "26/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "XANXERE": {
@@ -16042,6 +19602,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "27/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -16058,6 +19622,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "06/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -16065,6 +19633,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -16132,6 +19708,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -16151,8 +19735,8 @@
       "name": "Ano Novo"
     },
     "20/02/2023": {
-      "type": "Facultativo",
-      "name": "Carnaval"
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "21/02/2023": {
       "type": "Facultativo",
@@ -16178,6 +19762,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "21/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -16185,6 +19773,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -16239,6 +19835,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",

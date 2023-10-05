@@ -16,6 +16,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -43,6 +47,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -74,6 +86,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -101,6 +117,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -120,6 +144,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -131,6 +159,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -152,6 +184,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "31/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -160,6 +196,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -167,6 +211,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -190,6 +238,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -210,13 +262,37 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia São João"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "15/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "28/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "04/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "S. Francisco de Assis"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -248,6 +324,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -268,13 +348,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "15/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -306,6 +402,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -333,6 +433,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -364,6 +472,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -391,6 +503,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -422,6 +542,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -438,6 +562,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "01/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -449,6 +577,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -468,6 +604,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "05/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -479,6 +619,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -500,6 +644,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "11/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -508,6 +656,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -515,6 +671,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -538,6 +698,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -565,6 +729,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -596,6 +768,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -623,6 +799,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -642,6 +826,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "13/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -653,6 +841,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -681,6 +873,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -752,9 +952,17 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
     "25/10/2023": {
       "type": "Feriado Municipal",
       "name": "Aniversário"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -790,6 +998,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -810,6 +1022,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "16/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -818,6 +1034,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -825,6 +1049,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -848,6 +1076,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": " Dia de São José, padroeiro do estado"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -876,6 +1108,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -883,6 +1123,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "21/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário da cidade"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -906,6 +1150,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -926,6 +1174,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
+    "03/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -934,9 +1190,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "05/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -964,6 +1232,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -991,6 +1263,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1022,6 +1302,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1049,6 +1333,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1080,6 +1372,14 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "05/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1100,13 +1400,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "19/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "15/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1138,6 +1454,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1158,6 +1478,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1166,9 +1490,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "10/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia do Município"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -1196,6 +1532,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1223,6 +1563,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1242,6 +1590,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "25/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1253,6 +1605,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -1281,6 +1637,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1312,6 +1676,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1332,6 +1700,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
+    "17/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1340,6 +1716,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1347,6 +1731,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1370,6 +1758,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1390,6 +1782,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1397,6 +1793,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1428,13 +1832,17 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
     },
     "07/04/2023": {
-      "type": "Feriado Nacional",
-      "name": "Sexta-Feira Santa"
+      "type": "Feriado Municipal",
+      "name": "Divina Misericórdia"
     },
     "21/04/2023": {
       "type": "Feriado Nacional",
@@ -1448,6 +1856,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Padroeiro"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1456,6 +1868,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1463,6 +1883,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "22/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Emancipação"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1486,6 +1910,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1513,6 +1941,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1544,6 +1980,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1564,6 +2004,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "09/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1572,6 +2020,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1579,6 +2035,14 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "13/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1602,6 +2066,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1622,6 +2090,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "05/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "16/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1629,6 +2109,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1660,6 +2148,14 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "23/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1688,6 +2184,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1695,6 +2199,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1718,6 +2226,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1746,6 +2258,18 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1753,6 +2277,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "21/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1776,6 +2304,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1796,6 +2328,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "26/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1804,6 +2344,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1811,6 +2359,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1834,6 +2386,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1854,13 +2410,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "29/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1892,6 +2464,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1912,6 +2488,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1919,6 +2499,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1950,6 +2538,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -1970,13 +2562,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "04/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Padroeiro"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2008,6 +2616,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2032,9 +2644,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "08/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2043,6 +2667,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "22/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -2066,6 +2694,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2086,6 +2718,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
+    "06/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2093,6 +2733,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2124,6 +2772,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2144,13 +2796,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "16/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2182,6 +2850,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2202,6 +2874,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "18/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2209,6 +2889,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2240,6 +2928,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2267,6 +2959,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2298,6 +2998,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2318,13 +3022,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "22/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "08/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2356,6 +3076,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2383,6 +3107,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2414,6 +3146,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2441,6 +3177,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2472,6 +3216,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2499,6 +3247,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2529,6 +3285,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -2566,6 +3326,10 @@
       "type": "Feriado Municipal",
       "name": "Dia do município"
     },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2596,6 +3360,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2616,6 +3384,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2623,6 +3395,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2654,6 +3434,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2681,6 +3465,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2712,6 +3504,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2739,6 +3535,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2770,6 +3574,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2797,6 +3605,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2828,6 +3644,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2852,9 +3672,25 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "15/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "24/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2886,6 +3722,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2906,6 +3746,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "06/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2913,6 +3757,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2944,6 +3796,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -2964,6 +3820,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "21/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia do município"
+    },
+    "01/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Nossa Senhora da Penha, padroeira do município"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2971,6 +3835,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3002,6 +3874,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3018,6 +3894,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "03/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário da Cidade"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -3029,6 +3909,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3060,6 +3948,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3087,6 +3979,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3118,6 +4018,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3145,6 +4049,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3176,6 +4088,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3203,6 +4119,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3234,6 +4158,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3254,6 +4182,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "23/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3261,6 +4197,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3292,6 +4236,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3320,6 +4268,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -3327,6 +4283,14 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "20/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -3350,6 +4314,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3377,6 +4345,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3448,6 +4424,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -3478,9 +4462,17 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
+    },
+    "27/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/04/2023": {
       "type": "Feriado Nacional",
@@ -3498,13 +4490,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "21/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3536,9 +4544,17 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
+    },
+    "01/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/04/2023": {
       "type": "Feriado Nacional",
@@ -3560,9 +4576,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "08/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3594,6 +4622,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3621,6 +4653,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3652,6 +4692,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3659,6 +4703,10 @@
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
+    },
+    "15/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "21/04/2023": {
       "type": "Feriado Nacional",
@@ -3672,6 +4720,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3679,6 +4731,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3710,6 +4770,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3730,6 +4794,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "02/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3738,9 +4806,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "03/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -3768,6 +4848,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3795,6 +4879,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3826,6 +4918,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3853,6 +4949,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3884,6 +4988,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3911,6 +5019,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3942,6 +5058,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -3969,6 +5089,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4000,6 +5128,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -4027,6 +5159,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4058,6 +5198,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -4086,6 +5230,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4094,9 +5246,17 @@
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
     },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "27/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "HORIZONTE": {
@@ -4116,6 +5276,14 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "06/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -4136,6 +5304,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -4143,6 +5315,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4174,6 +5354,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -4201,6 +5385,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4220,6 +5412,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -4231,6 +5427,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -4252,6 +5452,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -4260,6 +5464,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4267,6 +5479,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "23/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -4290,6 +5506,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -4317,6 +5537,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4336,6 +5564,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "22/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Emancipação"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -4347,6 +5579,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -4372,9 +5608,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "22/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4394,6 +5642,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "02/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -4405,6 +5657,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -4434,6 +5690,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4441,6 +5705,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "18/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -4452,6 +5720,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "25/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário da Cidade"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -4463,6 +5735,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -4484,6 +5760,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Padroeira"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -4491,6 +5771,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4522,6 +5810,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -4542,6 +5834,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -4550,6 +5846,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4557,6 +5861,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "04/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -4580,6 +5888,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -4607,6 +5919,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4626,6 +5946,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -4637,6 +5961,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -4666,6 +5994,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4673,6 +6009,14 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "12/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -4696,6 +6040,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -4716,6 +6064,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "26/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -4723,6 +6075,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4754,6 +6114,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -4770,6 +6134,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "13/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -4782,6 +6150,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4789,6 +6165,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -4812,6 +6192,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -4840,6 +6224,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4847,6 +6239,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -4870,6 +6266,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -4886,9 +6286,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "20/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "21/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -4897,6 +6305,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4928,6 +6344,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -4955,6 +6375,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4986,9 +6414,17 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
+    },
+    "27/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/04/2023": {
       "type": "Feriado Nacional",
@@ -5006,6 +6442,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -5013,6 +6453,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5044,6 +6492,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -5071,6 +6523,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5090,6 +6550,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -5101,6 +6565,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -5122,13 +6590,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "31/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "24/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5160,6 +6644,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -5180,6 +6668,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "23/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -5188,6 +6680,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5195,6 +6695,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -5205,6 +6709,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "05/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -5217,6 +6725,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -5250,6 +6762,18 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "13/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "N. Sra. de Fátima"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5280,6 +6804,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -5307,6 +6835,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5338,6 +6874,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -5358,6 +6898,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -5366,6 +6910,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5373,6 +6925,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -5383,6 +6939,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "10/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -5396,6 +6956,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -5416,13 +6980,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "30/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "25/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5442,6 +7022,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "02/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -5453,6 +7037,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -5482,9 +7070,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "08/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -5512,6 +7112,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -5532,13 +7136,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "11/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5558,6 +7178,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "03/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -5569,6 +7193,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -5590,6 +7218,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -5597,6 +7229,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5628,6 +7268,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -5655,6 +7299,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5686,6 +7338,14 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "06/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -5714,6 +7374,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5721,6 +7389,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "13/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -5743,6 +7415,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "24/03/2023": {
       "type": "Feriado Municipal",
@@ -5784,6 +7460,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5814,6 +7498,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -5834,6 +7522,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "16/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -5841,6 +7533,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5872,6 +7572,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -5892,6 +7596,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "20/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -5899,6 +7607,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -5930,6 +7646,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -5950,6 +7670,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "30/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -5958,6 +7682,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -5965,6 +7697,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -5988,6 +7724,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6008,6 +7748,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "12/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6015,6 +7759,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "31/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6046,6 +7802,14 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "06/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6066,6 +7830,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6073,6 +7841,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6092,6 +7868,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -6103,6 +7883,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -6128,9 +7912,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "08/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6139,6 +7935,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "17/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -6162,6 +7962,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6189,6 +7993,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6220,6 +8032,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6247,6 +8063,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6278,6 +8102,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6305,6 +8133,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6336,6 +8172,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6356,6 +8196,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "27/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6364,6 +8208,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6371,6 +8223,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -6394,6 +8250,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6422,6 +8282,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6429,6 +8297,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -6452,6 +8324,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6472,6 +8348,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6479,6 +8359,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6510,6 +8398,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6537,6 +8429,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6568,6 +8468,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6595,6 +8499,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6626,6 +8538,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6646,6 +8562,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "11/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6653,6 +8573,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6684,6 +8612,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6704,6 +8636,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6712,6 +8648,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6719,6 +8663,14 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "27/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -6729,6 +8681,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -6742,6 +8698,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6770,6 +8730,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -6777,6 +8745,14 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "22/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "13/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -6800,6 +8776,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6820,6 +8800,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "11/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "02/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6827,6 +8815,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6858,6 +8854,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6885,6 +8885,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6916,6 +8924,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -6936,6 +8948,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "06/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -6943,6 +8959,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -6974,6 +8998,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7002,6 +9030,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -7009,6 +9045,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "12/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -7035,6 +9075,14 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "14/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -7068,6 +9116,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -7098,6 +9154,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7125,6 +9185,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7156,6 +9224,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7176,6 +9248,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -7184,9 +9260,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "11/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -7214,6 +9302,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7241,6 +9333,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7272,6 +9372,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7292,6 +9396,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -7299,6 +9407,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "01/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7311,6 +9431,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "28/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "OROS": {
@@ -7330,6 +9454,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7357,6 +9485,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7388,6 +9524,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7404,6 +9544,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "23/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -7416,6 +9560,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -7423,6 +9575,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -7446,6 +9602,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7466,6 +9626,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "16/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -7474,6 +9638,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -7481,6 +9653,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -7504,6 +9680,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7524,6 +9704,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "02/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -7532,6 +9716,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -7539,6 +9731,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -7562,6 +9758,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7589,6 +9789,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7620,6 +9828,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7636,6 +9848,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "08/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -7648,6 +9864,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -7655,6 +9879,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -7678,6 +9906,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7698,6 +9930,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "23/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "06/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -7706,13 +9946,29 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
     },
+    "03/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -7736,6 +9992,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7763,6 +10023,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7794,6 +10062,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7821,6 +10093,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7852,6 +10132,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7872,13 +10156,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "15/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7910,6 +10210,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7937,6 +10241,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -7968,6 +10280,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -7995,6 +10311,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8026,6 +10350,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8053,6 +10381,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8084,6 +10420,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8111,6 +10451,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8142,6 +10490,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8162,13 +10514,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "30/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "27/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8200,6 +10568,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8227,6 +10599,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8258,6 +10638,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8278,6 +10662,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "12/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -8285,6 +10673,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8316,6 +10712,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8343,6 +10743,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8374,6 +10782,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8401,6 +10813,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8432,6 +10852,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8460,6 +10884,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -8467,6 +10899,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -8490,9 +10926,17 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
+    },
+    "05/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/04/2023": {
       "type": "Feriado Nacional",
@@ -8510,6 +10954,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "04/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -8517,6 +10965,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8548,6 +11004,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8575,6 +11035,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8606,6 +11074,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8633,6 +11105,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8652,6 +11132,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "11/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -8663,6 +11147,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -8691,6 +11179,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "27/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário de Quixadá, Lei 1.960 de 14/12/2000"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8722,6 +11222,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8749,6 +11253,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8780,6 +11292,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8787,6 +11303,10 @@
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
+    },
+    "15/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia do Evangélico"
     },
     "21/04/2023": {
       "type": "Feriado Nacional",
@@ -8800,6 +11320,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
+    "14/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -8807,6 +11335,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -8838,6 +11374,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8854,6 +11394,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "15/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -8866,6 +11410,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -8873,6 +11425,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -8896,6 +11452,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8924,6 +11484,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -8932,9 +11500,17 @@
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
     },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "28/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "RERIUTABA": {
@@ -8954,6 +11530,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -8974,13 +11554,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "25/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário do Município"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9012,6 +11608,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9032,6 +11632,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "06/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -9040,6 +11644,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -9047,6 +11659,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "27/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -9057,6 +11673,14 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "02/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "03/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -9070,6 +11694,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9097,6 +11725,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9128,6 +11764,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9155,6 +11795,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9186,6 +11834,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9202,17 +11854,37 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "22/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "27/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "04/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Homenagem ao Revdo. Monsenhor Luis Ximenes de Aragão Freire. Lei Municipal nº 143."
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9244,6 +11916,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9264,6 +11940,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -9272,9 +11952,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "03/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -9302,6 +11994,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9322,6 +12018,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -9330,6 +12030,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -9337,6 +12045,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "25/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -9360,6 +12072,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9376,6 +12092,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "13/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -9388,6 +12108,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -9395,6 +12123,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "25/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -9418,6 +12150,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9446,6 +12182,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -9453,6 +12197,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "27/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -9476,6 +12224,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9503,6 +12255,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9534,6 +12294,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9561,6 +12325,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9592,6 +12364,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9612,13 +12388,29 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "03/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "15/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9650,6 +12442,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9677,6 +12473,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9707,6 +12511,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -9739,6 +12547,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9774,6 +12590,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9801,6 +12621,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9832,6 +12660,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9849,16 +12681,32 @@
       "name": "Dia do Trabalho"
     },
     "08/06/2023": {
-      "type": "Facultativo",
-      "name": "Corpus Christi"
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "08/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9878,6 +12726,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "22/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -9889,6 +12741,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -9917,6 +12773,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -9948,6 +12812,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -9975,6 +12843,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10006,6 +12882,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -10022,6 +12902,10 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "03/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
@@ -10033,6 +12917,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10052,6 +12944,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "13/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -10063,6 +12959,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -10084,6 +12984,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10091,6 +12995,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10122,6 +13034,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -10142,6 +13058,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "31/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10149,6 +13073,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10180,6 +13112,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -10208,6 +13144,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -10215,6 +13159,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "22/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -10238,6 +13186,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -10258,6 +13210,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "02/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10266,6 +13222,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -10273,6 +13237,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -10296,6 +13264,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -10316,6 +13288,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10323,6 +13299,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10335,6 +13319,10 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
+    },
+    "31/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     }
   },
   "UMARI": {
@@ -10354,6 +13342,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -10381,6 +13373,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10400,6 +13400,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "05/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -10411,6 +13415,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -10436,9 +13444,21 @@
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "08/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10447,6 +13467,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -10470,6 +13494,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -10490,6 +13518,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "01/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10497,6 +13533,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "01/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10528,9 +13576,17 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
+    },
+    "26/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/04/2023": {
       "type": "Feriado Nacional",
@@ -10548,6 +13604,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10555,6 +13615,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10574,6 +13642,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "05/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -10585,6 +13657,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
     },
     "25/03/2023": {
       "type": "Feriado Estadual",
@@ -10606,6 +13682,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10613,6 +13693,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10644,6 +13732,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -10664,6 +13756,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "31/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10671,6 +13767,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -10702,6 +13806,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Facultativo",
+      "name": "Dia de São José"
+    },
     "25/03/2023": {
       "type": "Feriado Estadual",
       "name": "Data Magna do Ceará"
@@ -10722,6 +13830,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "14/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -10729,6 +13845,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",

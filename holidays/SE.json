@@ -32,6 +32,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -39,6 +43,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -70,6 +82,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "04/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -86,6 +102,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -93,6 +113,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "01/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -148,6 +180,10 @@
       "type": "Feriado Municipal",
       "name": "São João"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -155,6 +191,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -206,6 +250,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -214,6 +262,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -221,6 +277,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -260,6 +320,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -268,9 +336,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "11/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -314,6 +394,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -322,6 +406,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -329,6 +421,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "13/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -352,6 +448,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "21/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -368,6 +468,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -375,6 +487,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -422,6 +542,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -429,6 +553,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -460,6 +592,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -476,6 +612,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "16/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -483,6 +631,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -502,6 +658,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "23/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -513,6 +673,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
     },
     "07/04/2023": {
       "type": "Feriado Nacional",
@@ -526,9 +690,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "07/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -538,6 +710,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -545,6 +725,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -584,6 +768,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -592,6 +780,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -599,6 +795,14 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "25/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -609,6 +813,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "02/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -634,9 +842,21 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "01/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "28/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -645,6 +865,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -692,6 +920,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -700,6 +932,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -707,6 +947,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "25/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -746,6 +990,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "16/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -753,6 +1005,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -800,6 +1060,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -807,6 +1071,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -846,6 +1118,10 @@
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
     },
+    "24/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "01/05/2023": {
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
@@ -854,6 +1130,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -861,6 +1149,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -908,6 +1204,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -915,6 +1215,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -962,6 +1270,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -969,6 +1281,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1012,9 +1332,21 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "04/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -1024,6 +1356,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1031,6 +1371,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "12/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1082,6 +1426,10 @@
       "type": "Feriado Municipal",
       "name": "São Pedro"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "14/08/2023": {
       "type": "Feriado Municipal",
       "name": "Aniversário de morte"
@@ -1094,9 +1442,17 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
     "18/10/2023": {
       "type": "Feriado Municipal",
       "name": "Emancipação"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1148,6 +1504,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1155,6 +1515,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1198,9 +1566,21 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "10/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -1209,6 +1589,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1256,6 +1644,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1263,6 +1655,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1310,6 +1710,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1317,6 +1721,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1364,6 +1776,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1371,6 +1787,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1418,6 +1842,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1426,6 +1854,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1433,6 +1869,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "25/12/2023": {
+      "type": "Feriado Nacional",
+      "name": "Natal"
     }
   },
   "ITABAIANA": {
@@ -1468,6 +1908,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "28/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1475,6 +1927,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1493,6 +1953,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "06/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -1522,6 +1986,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1530,6 +2002,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1537,6 +2017,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1576,6 +2060,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1584,6 +2072,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1591,6 +2087,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "25/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1601,6 +2101,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "02/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -1613,6 +2117,10 @@
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "28/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/04/2023": {
       "type": "Feriado Nacional",
@@ -1630,6 +2138,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1637,6 +2157,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1656,6 +2184,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "06/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1684,6 +2216,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "11/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1692,6 +2236,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1699,6 +2251,14 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia da Consciência Negra"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1710,6 +2270,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "06/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -1738,6 +2302,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1746,6 +2314,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1753,6 +2329,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "25/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1780,6 +2360,10 @@
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
     },
+    "20/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "21/04/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
@@ -1792,13 +2376,33 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "08/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1846,6 +2450,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "06/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "07/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1853,6 +2469,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1900,6 +2524,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1908,6 +2536,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -1915,6 +2551,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "23/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -1954,6 +2594,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1961,6 +2605,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1988,6 +2640,14 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "22/02/2023": {
+      "type": "Facultativo",
+      "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -2004,6 +2664,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2012,9 +2676,25 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
+    },
+    "25/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -2025,6 +2705,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "21/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -2054,6 +2738,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2061,6 +2753,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2092,6 +2792,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "12/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -2108,6 +2812,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2115,6 +2827,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2162,6 +2882,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2169,6 +2893,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2200,6 +2932,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "28/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/04/2023": {
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
@@ -2216,6 +2952,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2223,6 +2963,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2270,6 +3018,22 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2277,6 +3041,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2324,6 +3096,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2332,6 +3108,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2339,6 +3123,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "24/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -2349,6 +3137,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "06/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -2378,13 +3170,33 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "26/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2393,6 +3205,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "26/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -2432,13 +3248,33 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "15/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2458,6 +3294,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "11/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2482,9 +3322,21 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "13/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -2493,6 +3345,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2512,6 +3372,10 @@
       "type": "Feriado Nacional",
       "name": "Ano Novo"
     },
+    "02/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "20/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
@@ -2540,6 +3404,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "07/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2547,6 +3423,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2594,6 +3478,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2602,6 +3498,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2609,6 +3513,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "20/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia da Consciência Negra"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -2648,6 +3556,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2656,6 +3568,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2663,6 +3583,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "21/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -2702,6 +3626,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2709,6 +3637,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2733,12 +3669,20 @@
       "name": "Carnaval"
     },
     "21/02/2023": {
-      "type": "Facultativo",
-      "name": "Carnaval"
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "22/02/2023": {
       "type": "Facultativo",
       "name": "Carnaval"
+    },
+    "19/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "São José"
+    },
+    "25/03/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/04/2023": {
       "type": "Feriado Nacional",
@@ -2756,6 +3700,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2764,6 +3716,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2771,6 +3731,14 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "25/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -2781,6 +3749,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "11/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -2810,6 +3782,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "08/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2817,6 +3801,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -2864,6 +3856,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2872,6 +3876,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2879,6 +3891,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "23/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -2889,6 +3905,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "20/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -2914,9 +3934,21 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "03/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -2926,6 +3958,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2933,6 +3973,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "25/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -2972,6 +4016,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "20/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -2980,6 +4032,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -2987,6 +4047,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "08/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -2997,6 +4061,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "07/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -3026,6 +4094,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "13/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de Santo Antônio"
+    },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3033,6 +4113,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3076,9 +4164,17 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "14/05/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -3088,6 +4184,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -3095,6 +4199,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "21/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -3134,6 +4242,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3141,6 +4253,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3188,6 +4308,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3196,6 +4320,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -3203,6 +4335,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "18/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -3242,6 +4378,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3249,6 +4389,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3296,6 +4444,18 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3303,6 +4463,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3350,6 +4518,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3357,6 +4529,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3404,6 +4584,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3411,6 +4595,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3458,6 +4650,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3465,6 +4661,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3483,6 +4687,10 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "15/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -3512,6 +4720,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3519,6 +4735,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3566,13 +4790,37 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "29/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "08/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3605,8 +4853,8 @@
       "name": "Carnaval"
     },
     "07/04/2023": {
-      "type": "Feriado Nacional",
-      "name": "Sexta-Feira Santa"
+      "type": "Feriado Municipal",
+      "name": "Aniversário de São Domingos"
     },
     "21/04/2023": {
       "type": "Feriado Nacional",
@@ -3620,6 +4868,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "08/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Dia de São Domingos Gusmão"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3627,6 +4883,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "21/10/2023": {
+      "type": "Feriado Municipal",
+      "name": "Emancipação Política de São Domingos"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3674,6 +4942,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3681,6 +4953,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3728,6 +5008,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3735,6 +5019,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3766,6 +5058,10 @@
       "type": "Facultativo",
       "name": "Carnaval"
     },
+    "06/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Quinta-feira santa"
+    },
     "07/04/2023": {
       "type": "Feriado Municipal",
       "name": "Sexta-feira Santa"
@@ -3786,6 +5082,18 @@
       "type": "Feriado Municipal",
       "name": "Emancipação"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "São João"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "26/07/2023": {
+      "type": "Feriado Municipal",
+      "name": "Padroeira"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3793,6 +5101,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3840,6 +5156,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3848,6 +5168,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -3855,6 +5183,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "15/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -3894,6 +5226,10 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -3901,6 +5237,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -3944,9 +5288,21 @@
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
     },
+    "07/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "08/06/2023": {
       "type": "Facultativo",
       "name": "Corpus Christi"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
+    "15/08/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -3955,6 +5311,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4002,13 +5366,33 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
     },
+    "08/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -4017,6 +5401,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "25/11/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",
@@ -4027,6 +5415,14 @@
     "01/01/2023": {
       "type": "Feriado Nacional",
       "name": "Ano Novo"
+    },
+    "02/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "06/02/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "20/02/2023": {
       "type": "Facultativo",
@@ -4056,6 +5452,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "24/06/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
+    "08/07/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário de Sergipe"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -4064,6 +5468,14 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
@@ -4071,6 +5483,10 @@
     "15/11/2023": {
       "type": "Feriado Nacional",
       "name": "Proclamação da República"
+    },
+    "12/12/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
     },
     "25/12/2023": {
       "type": "Feriado Nacional",

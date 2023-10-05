@@ -8,6 +8,10 @@
       "type": "Feriado Estadual",
       "name": "Dia do Católico"
     },
+    "23/01/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "27/01/2023": {
       "type": "Feriado Estadual",
       "name": "Dia do Evangélico"
@@ -36,6 +40,10 @@
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
     },
+    "28/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "01/05/2023": {
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
@@ -48,6 +56,14 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
+    "06/09/2023": {
+      "type": "Feriado Municipal",
+      "name": "Feriado Municipal"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -59,6 +75,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -122,6 +146,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/06/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Acre"
+    },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -133,6 +165,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -200,6 +240,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -211,6 +255,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -278,6 +330,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -289,6 +345,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -356,6 +420,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -367,6 +435,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -434,6 +510,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -442,13 +522,17 @@
       "type": "Feriado Estadual",
       "name": "Dia da Amazônia"
     },
-    "29/09/2023": {
-      "type": "Feriado Municipal",
-      "name": "Aniversário da Cidade"
-    },
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -516,6 +600,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -527,6 +615,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -594,6 +690,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -605,6 +705,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -672,6 +780,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -683,6 +795,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -746,6 +870,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -757,6 +885,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -824,6 +960,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -835,6 +975,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -902,6 +1050,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -913,6 +1065,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -976,6 +1140,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -987,6 +1155,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1054,6 +1230,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1065,6 +1245,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1132,6 +1320,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1143,6 +1335,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -1206,6 +1410,14 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
+    "07/09/2023": {
+      "type": "Feriado Nacional",
+      "name": "Independência do Brasil"
+    },
     "08/09/2023": {
       "type": "Feriado Estadual",
       "name": "Dia da Amazônia"
@@ -1214,9 +1426,21 @@
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
     },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
     "02/11/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Finados"
+    },
+    "15/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Proclamação da República"
     },
     "17/11/2023": {
       "type": "Facultativo",
@@ -1225,10 +1449,6 @@
     "25/12/2023": {
       "type": "Feriado Nacional",
       "name": "Natal"
-    },
-    "28/12/2023": {
-      "type": "Feriado Municipal",
-      "name": "Aniversário"
     }
   },
   "RODRIGUES ALVES": {
@@ -1280,6 +1500,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1291,6 +1515,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1358,6 +1590,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1369,6 +1605,18 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
+    },
+    "02/11/2023": {
+      "type": "Feriado Nacional",
+      "name": "Dia de Finados"
     },
     "15/11/2023": {
       "type": "Feriado Nacional",
@@ -1416,10 +1664,6 @@
       "type": "Feriado Nacional",
       "name": "Sexta-Feira Santa"
     },
-    "08/04/2023": {
-      "type": "Feriado Municipal",
-      "name": "Padre Paulino Baldassari"
-    },
     "21/04/2023": {
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
@@ -1436,6 +1680,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1447,6 +1695,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1510,6 +1766,14 @@
       "type": "Facultativo",
       "name": "Corpus Christi"
     },
+    "15/06/2023": {
+      "type": "Feriado Estadual",
+      "name": "Aniversário do Acre"
+    },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1521,6 +1785,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1576,6 +1848,10 @@
       "type": "Feriado Nacional",
       "name": "Dia de Tiradentes"
     },
+    "24/04/2023": {
+      "type": "Feriado Municipal",
+      "name": "Aniversário da Cidade"
+    },
     "01/05/2023": {
       "type": "Feriado Nacional",
       "name": "Dia do Trabalho"
@@ -1587,6 +1863,10 @@
     "15/06/2023": {
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
+    },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
     },
     "07/09/2023": {
       "type": "Feriado Nacional",
@@ -1603,6 +1883,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
@@ -1670,6 +1958,10 @@
       "type": "Feriado Estadual",
       "name": "Aniversário do Acre"
     },
+    "06/08/2023": {
+      "type": "Feriado Estadual",
+      "name": "Revolução Acreana"
+    },
     "07/09/2023": {
       "type": "Feriado Nacional",
       "name": "Independência do Brasil"
@@ -1681,6 +1973,14 @@
     "12/10/2023": {
       "type": "Feriado Nacional",
       "name": "Nossa Senhora Aparecida"
+    },
+    "15/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Professor"
+    },
+    "28/10/2023": {
+      "type": "Facultativo",
+      "name": "Dia do Servidor Público"
     },
     "02/11/2023": {
       "type": "Feriado Nacional",
