@@ -7,11 +7,20 @@ Gem::Specification.new do |spec|
   spec.version = HolidaysBr::VERSION
   spec.authors = ["IgorFZ"]
   spec.email = ["igorf.zamp@gmail.com"]
-
-  spec.summary = "Write a short summary, because RubyGems requires one."
-  spec.description = "Write a longer description or delete this line."
+  spec.summary       = "Ruby gem for Brazilian holidays"
+  spec.description   = "A Ruby gem for working with Brazilian holidays."
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
+
+  spec.metadata      = {
+    "homepage_uri"   => "https://github.com/devrazonet/holidays_br",
+    "source_code_uri" => "https://github.com/devrazonet/holidays_br",
+    "documentation_uri" => "https://github.com/devrazonet/holidays_br"
+  }
+
+  spec.homepage = spec.metadata["homepage_uri"]
+  spec.source_code_uri = spec.metadata["source_code_uri"]
+  spec.documentation_uri = spec.metadata["documentation_uri"]
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
