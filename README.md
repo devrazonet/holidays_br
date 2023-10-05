@@ -25,7 +25,7 @@ require 'holidays_br'
 
 # Specify the state, city, and date you want to check
 state = 'SP'
-city = 'Sao_Paulo'
+city = 'SAO PAULO'
 date = '2023-12-25'
 
 holiday_info = HolidaysBr.is_holiday(state, city, date)
